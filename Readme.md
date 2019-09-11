@@ -12,8 +12,6 @@ Dracula是一款Dark（Deep）系的配色方案。[点我下载](https://dracul
 
 *这里还有一个很多人推荐过的网站，<https://studiostyl.es/>，里面有很多VS的配色，也支持在线编辑~*
 
-*修改好的.vssettings文件*
-
 ## 修改配色
 
 Dracula的配色方案我很喜欢，但是有一点有点不顺心，就是函数名与变量名的颜色是一模一样的。
@@ -28,14 +26,14 @@ Dracula的配色方案我很喜欢，但是有一点有点不顺心，就是函�
 
 添加一行代码，如下图所示。method name的含义就是字面意思，其他项同理。Foreground为字体颜色，我们修改这个就行了。
 
-<!-- TODO img sc01 -->
+<img src="https://github.com/Sarofc/VS-ColorScheme/blob/master/sc01.JPG?raw=true">
 
 ### 最终效果
 
  **C#**
 
-<!-- TODO  -->
+<img src="https://github.com/Sarofc/VS-ColorScheme/blob/master/sc02.JPG?raw=true">
 
  **C++**
 
-<!-- TODO  -->
+<img src="https://github.com/Sarofc/VS-ColorScheme/blob/master/sc03.JPG?raw=true">
