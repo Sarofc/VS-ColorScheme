@@ -26,14 +26,14 @@ Dracula的配色方案我很喜欢，但是有一点有点不顺心，就是函�
 
 添加一行代码，如下图所示。method name的含义就是字面意思，其他项同理。Foreground为字体颜色，我们修改这个就行了。
 
-<img src="https://github.com/Sarofc/VS-ColorScheme/blob/master/sc01.JPG?raw=true">
+<img src="https://github.com/Sarofc/VS-ColorScheme/blob/master/sc01.JPG?raw=true" width = 80%>
 
 ### 最终效果
 
  **C#**
 
-<img src="https://github.com/Sarofc/VS-ColorScheme/blob/master/sc02.JPG?raw=true">
+<img src="https://github.com/Sarofc/VS-ColorScheme/blob/master/sc02.JPG?raw=true" width = 50%>
 
  **C++**
 
-<img src="https://github.com/Sarofc/VS-ColorScheme/blob/master/sc03.JPG?raw=true">
+<img src="https://github.com/Sarofc/VS-ColorScheme/blob/master/sc03.JPG?raw=true" width = 50%>
